@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="snb">
+        <item>引起心跳过慢的常见原因大致分为三种：\n第一种是迷走神经功能亢进\n
+            第二种心跳过慢叫“病态窦房结综合征\n第三种是严重的房室传导阻滞所致的心跳过慢</item>
+        <item>良好的心态、作息规律、经常运动</item>
+        <item>引起心跳过快的因素通常有油腻、生冷、咸辣食品、烟酒。疾病，比如发热。药物：阿托品、肾上腺素等</item>
+    </string-array>
+    <color name="bg_ll">#112c302a</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="bottom_color">#00000000</color>
+    <color name="click">#6d9b312f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="darkgrey">#383333</color>
+    <color name="dialog_text_hint">#ffb0b0b0</color>
+    <color name="divider_color">#6fffffff</color>
+    <color name="grey">#413e3e</color>
+    <color name="grey_dark">#ff454545</color>
+    <color name="grey_dark_light">#55666666</color>
+    <color name="grey_white">#fff0f0f0</color>
+    <color name="half_transparent">#3f000000</color>
+    <color name="handle">#6d492323</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_blue_light2">#aa33b5e5</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="press">#f50909</color>
+    <color name="red">#f00</color>
+    <color name="top_color">#01589e</color>
+    <color name="trans_white">#afffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="CircularSeekBar"><attr format="integer" name="progress"/><attr format="integer" name="max"/><attr format="boolean" name="move_outside_circle"/><attr format="boolean" name="maintain_equal_circle"/><attr format="boolean" name="use_custom_radii"/><attr format="boolean" name="lock_enabled"/><attr format="float" name="circle_x_radius"/><attr format="float" name="circle_y_radius"/><attr format="float" name="circle_stroke_width"/><attr format="float" name="pointer_radius"/><attr format="float" name="pointer_halo_width"/><attr format="float" name="pointer_halo_border_width"/><attr format="string" name="circle_color"/><attr format="string" name="circle_progress_color"/><attr format="string" name="pointer_color"/><attr format="string" name="pointer_halo_color"/><attr format="string" name="pointer_halo_color_ontouch"/><attr format="integer" name="pointer_alpha_ontouch"/><attr format="float" name="start_angle"/><attr format="float" name="end_angle"/><attr format="string" name="circle_fill"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">移动健康</string>
+    <string name="beats_faster">如全身性疾病：高热、贫血、缺氧、感染、甲状腺机能亢进、疼痛、
+        急性风湿热、脚气病及神经官能症等可引起心率过
+        快。正常的心率是60～100。注意平时保健，要起居有常，保寒保暖，适度运动，避免暴食暴饮.\n
+        早在1945年，著名学者莱维就发表文章指出，心跳每分钟100次以上者死亡率远远高于心跳较慢者。
+        40年后，美国最著名的流行病学调查弗拉明翰研究发表了更具说服力的资料，年龄在35—84岁的人群，前瞻性随访26年的结果表明，
+        随心跳次数加快，死亡率呈大幅度上升趋势，在男性人群中尤为明显。\n
+        重者发绀、气促、晕厥、低血压、休克、急性心衰、心绞痛，甚至衍变为心室颤动而猝死
+    </string>
+    <string name="beats_slower">
+        当心率低于50次/分的时候，一般都是有症状的，过于缓慢的心率容易导致全身重要脏器的
+        供血不足而出现症状；窦性心律慢于每分钟60次称为窦性心动过缓。可见于健康的成人，尤其是
+        运动员、老年人和睡眠时。其他原因为颅内压增高、血钾过高、甲状腺机能减退、低温以及用洋地黄
+        、β受体阻滞剂、利血平、胍乙啶、甲基多巴等药物。在器质性心脏病中，窦性心动过缓可见于冠心病
+        、急性心肌梗塞、心肌炎、心肌病和病窦综合征。总的来说，只要没有症状，可以不需要治疗，一般当心率低于50次/分的时候，
+        会有头晕、晕厥等不适，出现这种情况的话，需要至医院考虑行起搏器治疗。
+    </string>
+    <string name="gpsfollow">追随</string>
+    <string name="gpslocate">定位</string>
+    <string name="gpsrotate">旋转</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="normal">1、做准备时多吃水果\n2、晨练前不妨喝杯蜂蜜水\n3、依照运动时间长短饮用500cc以上的温开水\n4、运动前可喝一杯无糖的咖啡\n5、高强度健身之后千万不要吃鱼\n6、适量补充碳水化合物\n7、运动后吃少量的高纤食品\n8、运动后不要喝含咖啡因的饮料\n9、运动后吃些碱性食物</string>
+    <string name="principle">用高光（摄像头旁的 LED 闪光灯，或者其他足够亮的光源也可）
+        照亮指尖皮下毛细血管，当心脏将新鲜的血液压入毛细血管时，亮度（红色的深度）
+        会有轻微变化，通过摄像头监测这一有规律变化的间隔，即可算出心跳了。\n测量范围：30~160</string>
+    <string name="principle1">保持手机在眼前40cm处，选择E的朝向\n保持屏幕合适的亮度\n选择能辨认的最小的那一行作为测量结果</string>
+    <string name="principle2">视力检测对屏幕的分辨率和尺寸有要求，建议分辨率至少800*480，建议屏幕尺寸至少4寸\n\n
+    视力误差在0.2以内\n\n
+        视力测量原理：\n
+        视力表是根据视角的原理设计的。所谓视角就是由外界两点发出的光线，经眼内结点所形成的夹角（就是外界物体的二点射入眼内相交时所引成盟角度）。正常情况下，
+        人眼能分辨出两点间的最小距离所形成的视角为最小视角，即一分视角。视力表就是以一分视角为单位进行设计有效的监测势力而来。
+    </string>
+    <string name="title_activity_chart">ChartActivity</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_runninman">RunningMan</string>
+    <string name="title_xinlv">心率监测</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AudioFileInfoOverlayText">
+        <item name="android:paddingLeft">4px</item>
+        <item name="android:paddingBottom">4px</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:shadowColor">#ffcccc</item>
+        <item name="android:shadowDx">5</item>
+        <item name="android:shadowDy">3</item>
+        <item name="android:shadowRadius">6</item>
+    </style>
+</resources>

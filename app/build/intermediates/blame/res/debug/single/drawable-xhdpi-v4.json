@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_select.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xhdpi\\mine_select.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mine_select.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xhdpi/mine_select.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_normal.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xhdpi\\mine_normal.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mine_normal.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xhdpi/mine_normal.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/health_normal.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xhdpi/health_normal.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\health_normal.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xhdpi\\health_normal.jpg"
+    }
+]

@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_main"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.example.xinlv.fragment.CheckFragment">
+
+    <TextView
+        android:id="@+id/base"
+        android:layout_width="match_parent"
+        android:layout_height="80dp" />
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/base"
+        android:layout_margin="8.0dip"
+        android:layout_marginTop="60dp"
+        android:horizontalSpacing="6.0dip"
+        android:numColumns="2"
+        android:verticalSpacing="6.0dip" />
+
+</RelativeLayout>
+

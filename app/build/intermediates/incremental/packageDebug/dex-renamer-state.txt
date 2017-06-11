@@ -1,0 +1,7 @@
+#Sun Jun 11 13:03:11 CST 2017
+base.0=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c48bfbb9eadea088f4278071fae349b0192c238
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab8152966a687ee4333974538e7430d6cad41a6f/classes.dex
+base.1=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab8152966a687ee4333974538e7430d6cad41a6f
+file.0=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c48bfbb9eadea088f4278071fae349b0192c238/classes.dex

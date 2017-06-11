@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_mine.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xxhdpi/background_mine.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_main.jpeg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xxhdpi/background_main.jpeg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\background_main.jpeg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xxhdpi\\background_main.jpeg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\background_chart.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xxhdpi\\background_chart.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\eye_distance.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xxhdpi\\eye_distance.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_chart.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xxhdpi/background_chart.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/eye_distance.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xxhdpi/eye_distance.jpg"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\background_mine.jpg",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xxhdpi\\background_mine.jpg"
+    }
+]

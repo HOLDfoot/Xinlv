@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_select.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xhdpi\\check_select.png"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xhdpi/check_select.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xhdpi/check_select.png"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xhdpi/check_normal.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xhdpi/check_normal.png"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\health_select.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xhdpi\\health_select.png"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_normal.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/F:\\workspace\\Androidstudio\\2017-01-04\\xinlv1\\app\\src\\main\\res\\drawable-xhdpi\\check_normal.png"
+    },
+    {
+        "merged": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/res/merged/debug/drawable-xhdpi/health_select.png",
+        "source": "/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/src/main/res/drawable-xhdpi/health_select.png"
+    }
+]

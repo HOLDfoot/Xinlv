@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+    android:background="@drawable/background_mine"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ff18b4ed"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/tv_mine"/>
+
+        <TextView
+            android:id="@+id/tv_mine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="我的健康"
+            android:textSize="25sp"
+            android:typeface="sans"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/ib_mine"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="Mac  :"/>
+
+        <TextView
+            android:id="@+id/tv_mac"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="Beats:"/>
+
+        <EditText
+            android:id="@+id/et_hb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="心率偏:"/>
+        <!--sb is small or big-->
+        <TextView
+            android:id="@+id/tv_sb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="小"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/tv_icon"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="原  因:"/>
+
+        <TextView
+            android:id="@+id/tv_cause"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:layout_toRightOf="@id/tv_icon"
+            android:hint="形成原因"
+            android:minLines="2"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/tv_eat"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/purple"
+            android:text="饮食"/>
+
+        <Button
+            android:id="@+id/tv_sport"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/green"
+            android:text="运动"/>
+
+        <Button
+            android:id="@+id/tv_medicine"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/yellow"
+            android:text="药物"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_plan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="健康策略"/>
+        </ScrollView>
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.xinlv"
+    android:versionCode="1"
+    android:versionName="1.0"> <!-- manifest属性   android:sharedUserId="" -->
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+<!--Map setting-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+     
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="704c08b91e4c9062b0add09c0cb456e9" />
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" android:label="@string/app_name" />
+        <!-- 该属性在activity里面 android:process="" 此外如果签名还一致就可以运行在对应的进程里面 -->
+        <activity
+            android:name=".WebActivity"
+            android:launchMode="singleInstance"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
+        <activity
+            android:name=".ChartActivity"
+            android:label="@string/title_activity_chart" />
+        <activity android:name=".EyeActivity" />
+        <activity android:name=".PrincipleActivity"></activity>
+
+
+        <!-- 定位需要的服务 使用2.0的定位需要加上这个 -->
+        <service android:name="com.amap.api.location.APSService" />
+
+        <activity android:name=".LocationActivity" android:label="@string/title_runninman" android:icon="@drawable/icon_route"/>
+
+
+        <service
+            android:name=".RunningService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.holdfoot.runningmeasure.start" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

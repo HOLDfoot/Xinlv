@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="798d38e66d4abd5efb24490a6c05260cb7103713">
+        <dex dex="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c48bfbb9eadea088f4278071fae349b0192c238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/libs/AMap_Location_V2.4.1_20160414.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2a48661c11bfafb2dea576904958420c2ad9e06">
+        <dex dex="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V2.4.1_20160414_b1553ade7bbcfa8fd39c4a66b7c655969fd55e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab8152966a687ee4333974538e7430d6cad41a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/secretlisa/zhumingren/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_2c84526f793ab714ad86e005ddcc84e38acdadcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/libs/Volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Volley_d4c81f261c1cbb4107ea6d8c17080f065a1c0742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/libs/AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Search_V3.2.1_20160308_5627478e655f83b3086e8a148ba53d8ea224cf0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/libs/AMap_3DMap_V3.3.1_20160419.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4f86608ad453f27dfbc7f8a51a2e13f4fc9f2c2">
+        <dex dex="/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_3DMap_V3.3.1_20160419_89be8ae3373722aa11a25bc5f7399429b4ff7e96/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+#Sun Jun 11 13:03:10 CST 2017
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+base.4=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Volley_d4c81f261c1cbb4107ea6d8c17080f065a1c0742
+renamed.0=classes.dex
+base.3=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Search_V3.2.1_20160308_5627478e655f83b3086e8a148ba53d8ea224cf0c
+base.2=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_3DMap_V3.3.1_20160419_89be8ae3373722aa11a25bc5f7399429b4ff7e96
+base.1=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V2.4.1_20160414_b1553ade7bbcfa8fd39c4a66b7c655969fd55e63
+base.0=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_2c84526f793ab714ad86e005ddcc84e38acdadcb
+file.4=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Volley_d4c81f261c1cbb4107ea6d8c17080f065a1c0742/classes.dex
+file.3=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Search_V3.2.1_20160308_5627478e655f83b3086e8a148ba53d8ea224cf0c/classes.dex
+file.2=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_3DMap_V3.3.1_20160419_89be8ae3373722aa11a25bc5f7399429b4ff7e96/classes.dex
+file.1=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V2.4.1_20160414_b1553ade7bbcfa8fd39c4a66b7c655969fd55e63/classes.dex
+file.0=/Users/secretlisa/zhumingren/androidprojects/demos/xinlv1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_2c84526f793ab714ad86e005ddcc84e38acdadcb/classes.dex
